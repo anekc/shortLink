@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bitly"
+    }
+  },
+  "defaultProject": "bitly",
+  "cli": {
+    "analytics": "bf67e30b-65e8-49ac-8678-7414bd2a5b02"
+  }
 }
